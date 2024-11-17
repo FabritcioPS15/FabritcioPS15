@@ -32,14 +32,8 @@ Desarrollador Frontend apasionado por crear experiencias web excepcionales. Me e
 - Optimización de rendimiento en aplicaciones web
 - Testing en Angular con Jasmine y Karma
 
-## 📈 Contribuciones
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=radical)
-
 ## 🤝 Conecta Conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=TU_LINK)](TU_LINK)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=TU_LINK)](TU_LINK)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=TU_LINK)](TU_LINK)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=TU_LINK)](https://www.linkedin.com/in/fabritciops15/)
 ## 💡 Tip
 ```typescript
 // Código es poesía
