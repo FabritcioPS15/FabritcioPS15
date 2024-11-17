@@ -17,35 +17,18 @@ Desarrollador Frontend apasionado por crear experiencias web excepcionales. Me e
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)](https://github.com/TU_USERNAME)
 
 ## 🎯 Proyectos Frontend Destacados
 - 🌐 [Nombre del Proyecto Angular](link) - Aplicación web construida con Angular y TypeScript
-- 💼 [Proyecto Responsive](link) - Sitio web responsive utilizando HTML5 y CSS3
-- ⚡ [Proyecto TypeScript](link) - Aplicación desarrollada con TypeScript
+- 💼 [Proyecto Óptica](https://github.com/FabritcioPS15/Proyecto-ptica-) - Sitio web responsive utilizando HTML5 y CSS3
 
 ## 🌱 Actualmente Aprendiendo
 - Patrones de diseño avanzados en Angular
 - Optimización de rendimiento en aplicaciones web
-- Testing en Angular con Jasmine y Karma
 
 ## 🤝 Conecta Conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=TU_LINK)](https://www.linkedin.com/in/fabritciops15/)
-## 💡 Tip
-```typescript
-// Código es poesía
-const developer = {
-  code: ["HTML", "CSS", "TypeScript", "JavaScript"],
-  tools: ["Angular", "RxJS", "SCSS"],
-  architecture: ["component-based", "MVC", "responsive-design"],
-  challenge: "Mejorando cada día en el desarrollo frontend"
-};
-```
 
-Version 2 of 2
 
 
 
