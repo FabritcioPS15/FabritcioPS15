@@ -1,4 +1,12 @@
-# 👋 Hola, soy Fabritcio Peña
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>, I'm Fabritcio</h1></summary>
+  </ul>
+</div>
 
 ## 🚀 Sobre mí
 Desarrollador Frontend apasionado por crear experiencias web excepcionales. Me especializo en Angular y tecnologías web modernas, siempre buscando aprender y mejorar mis habilidades.
