@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Fabritcio Peña </h1>
 <h3 align="center">Developer Full Stack | Data Scientist </h3>
 <p align="center">
-
+<p></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Sobre mí
