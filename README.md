@@ -17,18 +17,28 @@ Desarrollador Frontend apasionado por crear experiencias web excepcionales. Me e
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-
 ## 🎯 Proyectos Frontend Destacados
-- 🌐 [Nombre del Proyecto Angular](link) - Aplicación web construida con Angular y TypeScript
-- 💼 [Proyecto Óptica](https://github.com/FabritcioPS15/Proyecto-ptica-) - Sitio web responsive utilizando HTML5 y CSS3
+### 💼 Proyecto Óptica
+[![Proyecto Óptica](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-ptica-&theme=dark)](https://github.com/FabritcioPS15/Proyecto-ptica-)
+- Desarrollo de un sitio web responsive para una óptica utilizando HTML5 y CSS3
+- Implementación de diseño moderno y adaptable a diferentes dispositivos
+- Optimización de la experiencia de usuario y rendimiento
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FabritcioPS15&show_icons=true&theme=dark)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&layout=compact&theme=dark)
 
 ## 🌱 Actualmente Aprendiendo
 - Patrones de diseño avanzados en Angular
 - Optimización de rendimiento en aplicaciones web
+- Arquitectura de aplicaciones escalables
 
 ## 🤝 Conecta Conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=TU_LINK)](https://www.linkedin.com/in/fabritciops15/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabritciops15/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FabritcioPS15)
 
+---
+⚡ Fun fact: Comprometido con el código limpio y las mejores prácticas de desarrollo web.
 
 
 
