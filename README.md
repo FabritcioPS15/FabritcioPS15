@@ -1,9 +1,9 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=FabritcioPS15&color=brightgreen" alt="watching_count" />
  </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Fabritcio Peña </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Fabritcio Peña src="https://emoji.gg/assets/emoji/7333-parrotdance.gif </h1>
 <h3 align="center">Developer Full Stack | Data Scientist </h3>
 <p align="center">
 <p></p>
