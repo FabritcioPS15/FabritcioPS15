@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=FabritcioPS15&color=brightgreen" alt="watching_count" />
  </p>
