@@ -3,7 +3,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=FabritcioPS15&color=brightgreen" alt="watching_count" />
  </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Fabritcio Peña src="https://emoji.gg/assets/emoji/7333-parrotdance.gif </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Fabritcio Peña <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
 <h3 align="center">Developer Full Stack | Data Scientist </h3>
 <p align="center">
 <p></p>
