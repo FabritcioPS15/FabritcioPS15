@@ -34,7 +34,6 @@ Desarrollador Frontend apasionado por crear experiencias web excepcionales. Me e
 - Optimización de la experiencia de usuario y rendimiento
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FabritcioPS15&show_icons=true&theme=dark)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&layout=compact&theme=dark)
 
 ## 🌱 Actualmente Aprendiendo
