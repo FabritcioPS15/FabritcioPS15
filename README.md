@@ -10,8 +10,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Sobre mí
-Desarrollador Frontend apasionado por crear experiencias web excepcionales. Me especializo en Angular y tecnologías web modernas, siempre buscando aprender y mejorar mis habilidades.
-
+const fabritcio = {
+  rol: "Desarrollador Full Stack",
+  especialidad: "Frontend con Angular",
+  pasiones: ["Código limpio", "UI/UX", "Aprendizaje continuo"],
+  meta: "Crear experiencias web excepcionales y escalables",
+  hobbies: ["Música", "Ciclismo", "Videojuegos retro"]
+}
 ## 💻 Stack Tecnológico
 
 ### Frontend
