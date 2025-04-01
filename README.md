@@ -1,57 +1,97 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=FabritcioPS15&color=brightgreen" alt="watching_count" />
- </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Fabritcio Peña <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
-<h3 align="center">Developer Full Stack | Data Scientist </h3>
 <p align="center">
-<p></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## 🚀 Sobre mí
-const fabritcio = {
-  rol: "Desarrollador Full Stack",
-  especialidad: "Frontend con Angular",
-  pasiones: ["Código limpio", "UI/UX", "Aprendizaje continuo"],
-  meta: "Crear experiencias web excepcionales y escalables",
-  hobbies: ["Música", "Ciclismo", "Videojuegos retro"]
-}
-## 💻 Stack Tecnológico
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Fabritcio Peña <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
+<h3 align="center">🚀 Full Stack Developer | Data Scientist 🚀</h3>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Herramientas y Otros
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-
-## 🎯 Proyectos Frontend Destacados
-### 💼 Proyecto Óptica
-[![Proyecto Óptica](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-ptica-&theme=dark)](https://github.com/FabritcioPS15/Proyecto-ptica-)
-- Desarrollo de un sitio web responsive para una óptica utilizando HTML5 y CSS3
-- Implementación de diseño moderno y adaptable a diferentes dispositivos
-- Optimización de la experiencia de usuario y rendimiento
-
-## 📈 Estadísticas de GitHub
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&layout=compact&theme=dark)
-
-## 🌱 Actualmente Aprendiendo
-- Patrones de diseño avanzados en Angular
-- Optimización de rendimiento en aplicaciones web
-- Arquitectura de aplicaciones escalables
-
-## 🤝 Conecta Conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabritciops15/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FabritcioPS15)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FabritcioPS15&color=brightgreen" alt="Profile Views" />
+</p>
 
 ---
-⚡ Fun fact: Comprometido con el código limpio y las mejores prácticas de desarrollo web.
 
+## 🚀 About Me
+✨ Passionate about technology, clean code, and best development practices.
+📚 Always learning and improving my skills in web development and data science.
+⚡ Enthusiastic about scalable architecture and high-performance applications.
 
+---
 
+## 💻 Tech Stack
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+</p>
+
+### 🛠️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Others
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/FabritcioPS15/Planilla-Asistencias">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Planilla-Asistencias&theme=radical" width="500px"/>
+  </a>
+  <br>
+  <strong>📊 Payroll Management System</strong>
+  <br>
+  <span>📝 Streamlining payroll processing and maintaining solid employee records.</span>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FabritcioPS15/Proyecto-APPmovil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-APPmovil&theme=radical" width="500px"/>
+  </a>
+  <br>
+  <strong>📱 Mobile Application Project</strong>
+  <br>
+  <span>📲 Enhancing user experience and business operations through mobile solutions.</span>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&layout=compact&theme=dark" width="100%"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+🔹 Advanced design patterns in Angular.
+🔹 Web application performance optimization.
+🔹 Scalable application architecture.
+
+---
+
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/fabritciops15/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/FabritcioPS15" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+🌟 "Code is like humor. When you have to explain it, it’s bad." 🚀
