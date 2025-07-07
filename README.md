@@ -97,107 +97,34 @@
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-  <div class="carousel-container">
-    <div class="carousel-track">
-      <!-- Proyecto 1 -->
-      <div class="carousel-slide active">
-        <div class="project-card">
-          <div class="project-header">
-            <h3>📊 Sistema de Gestión de Planillas</h3>
-            <div class="project-links">
-              <a href="https://github.com/FabritcioPS15/Planilla-Asistencias" target="_blank" class="project-link">
-                <span>Ver Proyecto</span>
-                <i class="arrow">→</i>
-              </a>
-            </div>
-          </div>
-          <div class="project-image">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Planilla-Asistencias&theme=radical&border_radius=10" alt="Planilla Asistencias"/>
-          </div>
-          <div class="project-description">
-            <p>📝 Optimización del procesamiento de nóminas y mantenimiento de registros sólidos de empleados con interfaz intuitiva y reportes automatizados.</p>
-          </div>
-          <div class="project-tech">
-            <span class="tech-badge">Angular</span>
-            <span class="tech-badge">Node.js</span>
-            <span class="tech-badge">PostgreSQL</span>
-            <span class="tech-badge">TypeScript</span>
-          </div>
-        </div>
-      </div>
+---
 
-      <!-- Proyecto 2 -->
-      <div class="carousel-slide">
-        <div class="project-card">
-          <div class="project-header">
-            <h3>📱 Proyecto de Aplicación Móvil</h3>
-            <div class="project-links">
-              <a href="https://github.com/FabritcioPS15/Proyecto-APPmovil" target="_blank" class="project-link">
-                <span>Ver Proyecto</span>
-                <i class="arrow">→</i>
-              </a>
-            </div>
-          </div>
-          <div class="project-image">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-APPmovil&theme=radical&border_radius=10" alt="Proyecto APP Móvil"/>
-          </div>
-          <div class="project-description">
-            <p>📲 Mejora de la experiencia del usuario y operaciones comerciales a través de soluciones móviles innovadoras y escalables.</p>
-          </div>
-          <div class="project-tech">
-            <span class="tech-badge">React Native</span>
-            <span class="tech-badge">JavaScript</span>
-            <span class="tech-badge">Firebase</span>
-            <span class="tech-badge">Redux</span>
-          </div>
-        </div>
-      </div>
+### 📊 Sistema de Gestión de Planillas
+Optimización del procesamiento de nóminas y mantenimiento de registros sólidos de empleados con interfaz intuitiva y reportes automatizados.  
+**Tecnologías:** `Angular` `Node.js` `PostgreSQL` `TypeScript`  
+[🔗 Ver repositorio](https://github.com/FabritcioPS15/Planilla-Asistencias)
 
-      <!-- Proyecto 3 (Nuevo) -->
-      <div class="carousel-slide">
-        <div class="project-card">
-          <div class="project-header">
-            <h3>🌐 Portfolio Personal</h3>
-            <div class="project-links">
-              <a href="https://github.com/FabritcioPS15" target="_blank" class="project-link">
-                <span>Ver Proyecto</span>
-                <i class="arrow">→</i>
-              </a>
-            </div>
-          </div>
-          <div class="project-image">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=FabritcioPS15&theme=radical&border_radius=10" alt="Portfolio Personal"/>
-          </div>
-          <div class="project-description">
-            <p>🎨 Portfolio personal desarrollado con tecnologías modernas, diseño responsivo y animaciones interactivas para mostrar mis proyectos y habilidades.</p>
-          </div>
-          <div class="project-tech">
-            <span class="tech-badge">HTML5</span>
-            <span class="tech-badge">CSS3</span>
-            <span class="tech-badge">JavaScript</span>
-            <span class="tech-badge">GitHub Pages</span>
-          </div>
-        </div>
-      </div>
-    </div>
+![Planilla Asistencias](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Planilla-Asistencias&theme=radical)
 
-    <!-- Controles del carrusel -->
-    <div class="carousel-controls">
-      <button class="carousel-btn prev" onclick="changeSlide(-1)">
-        <span>‹</span>
-      </button>
-      <div class="carousel-dots">
-        <span class="dot active" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-        <span class="dot" onclick="currentSlide(3)"></span>
-      </div>
-      <button class="carousel-btn next" onclick="changeSlide(1)">
-        <span>›</span>
-      </button>
-    </div>
-  </div>
-</div>
+---
+
+### 📱 Proyecto de Aplicación Móvil
+Mejora de la experiencia del usuario y operaciones comerciales a través de soluciones móviles innovadoras y escalables.  
+**Tecnologías:** `React Native` `JavaScript` `Firebase` `Redux`  
+[🔗 Ver repositorio](https://github.com/FabritcioPS15/Proyecto-APPmovil)
+
+![Proyecto APPmovil](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-APPmovil&theme=radical)
+
+---
+
+### 🌐 Portfolio Personal
+Portfolio personal desarrollado con tecnologías modernas, diseño responsivo y animaciones interactivas para mostrar mis proyectos y habilidades.  
+**Tecnologías:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`  
+[🔗 Ver repositorio](https://github.com/FabritcioPS15)
+
+![Portfolio Personal](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=FabritcioPS15&theme=radical)
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 300px; height: 4px;">
