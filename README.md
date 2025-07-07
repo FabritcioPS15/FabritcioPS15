@@ -237,371 +237,120 @@
 
 ## 🎯 Experiencia Profesional
 
-<div align="center">
-  <div class="experience-timeline">
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <h4>🚀 Full Stack Developer</h4>
-        <p class="timeline-company">Empresa Tecnológica</p>
-        <p class="timeline-period">2023 - Presente</p>
-        <p>Desarrollo de aplicaciones web completas con Angular, Node.js y PostgreSQL. Implementación de arquitecturas escalables y optimización de rendimiento.</p>
-        <div class="timeline-tech">
-          <span class="tech-tag">Angular</span>
-          <span class="tech-tag">Node.js</span>
-          <span class="tech-tag">PostgreSQL</span>
-        </div>
-      </div>
-    </div>
-    
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 150px; height: 2px;">
-    </div>
-    
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <h4>📱 Mobile Developer</h4>
-        <p class="timeline-company">Startup Innovadora</p>
-        <p class="timeline-period">2022 - 2023</p>
-        <p>Desarrollo de aplicaciones móviles con React Native. Implementación de funcionalidades avanzadas y optimización de UX/UI.</p>
-        <div class="timeline-tech">
-          <span class="tech-tag">React Native</span>
-          <span class="tech-tag">JavaScript</span>
-          <span class="tech-tag">Firebase</span>
-        </div>
-      </div>
-    </div>
-    
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 150px; height: 2px;">
-    </div>
-    
-    <div class="timeline-item">
-      <div class="timeline-dot"></div>
-      <div class="timeline-content">
-        <h4>💻 Frontend Developer</h4>
-        <p class="timeline-company">Agencia Digital</p>
-        <p class="timeline-period">2021 - 2022</p>
-        <p>Creación de interfaces de usuario atractivas y responsivas. Implementación de mejores prácticas de desarrollo web.</p>
-        <div class="timeline-tech">
-          <span class="tech-tag">HTML5</span>
-          <span class="tech-tag">CSS3</span>
-          <span class="tech-tag">JavaScript</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+---
+
+### 🚀 Full Stack Developer
+**Empresa Tecnológica** | 2023 - Presente  
+Desarrollo de aplicaciones web completas con Angular, Node.js y PostgreSQL. Implementación de arquitecturas escalables y optimización de rendimiento.  
+**Tecnologías:** `Angular` `Node.js` `PostgreSQL`
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+### 📱 Mobile Developer
+**Startup Innovadora** | 2022 - 2023  
+Desarrollo de aplicaciones móviles con React Native. Implementación de funcionalidades avanzadas y optimización de UX/UI.  
+**Tecnologías:** `React Native` `JavaScript` `Firebase`
+
+---
+
+### 💻 Frontend Developer
+**Agencia Digital** | 2021 - 2022  
+Creación de interfaces de usuario atractivas y responsivas. Implementación de mejores prácticas de desarrollo web.  
+**Tecnologías:** `HTML5` `CSS3` `JavaScript`
+
+![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 Logros y Certificaciones
 
-<div align="center">
-  <div class="achievements-grid">
-    <div class="achievement-card">
-      <div class="achievement-icon">🏅</div>
-      <h4>Certificación Angular</h4>
-      <p>Desarrollador Certificado de Angular</p>
-      <span class="achievement-date">2023</span>
-    </div>
-    
-    <div class="achievement-card">
-      <div class="achievement-icon">📊</div>
-      <h4>Data Science</h4>
-      <p>Especialista en Análisis de Datos</p>
-      <span class="achievement-date">2023</span>
-    </div>
-    
-    <div class="achievement-card">
-      <div class="achievement-icon">🚀</div>
-      <h4>Hackathon Winner</h4>
-      <p>Primer lugar en competencia de desarrollo</p>
-      <span class="achievement-date">2022</span>
-    </div>
-    
-    <div class="achievement-card">
-      <div class="achievement-icon">⭐</div>
-      <h4>GitHub Star</h4>
-      <p>Proyectos destacados en la comunidad</p>
-      <span class="achievement-date">2023</span>
-    </div>
-  </div>
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+- 🏅 **Certificación Angular** — Desarrollador Certificado de Angular *(2023)*
+- 📊 **Data Science** — Especialista en Análisis de Datos *(2023)*
+- 🚀 **Hackathon Winner** — Primer lugar en competencia de desarrollo *(2022)*
+- ⭐ **GitHub Star** — Proyectos destacados en la comunidad *(2023)*
+
+![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌱 Actualmente Aprendiendo
 
-<div align="center">
-  <div class="learning-grid">
-    <div class="learning-card">
-      <div class="learning-icon">🔹</div>
-      <h4>Patrones de Diseño Avanzados en Angular</h4>
-      <div class="learning-progress">
-        <div class="progress-bar" style="width: 75%"></div>
-      </div>
-    </div>
-    
-    <div class="learning-card">
-      <div class="learning-icon">🔹</div>
-      <h4>Optimización de Rendimiento Web</h4>
-      <div class="learning-progress">
-        <div class="progress-bar" style="width: 60%"></div>
-      </div>
-    </div>
-    
-    <div class="learning-card">
-      <div class="learning-icon">🔹</div>
-      <h4>Arquitectura de Aplicaciones Escalables</h4>
-      <div class="learning-progress">
-        <div class="progress-bar" style="width: 45%"></div>
-      </div>
-    </div>
-    
-    <div class="learning-card">
-      <div class="learning-icon">🔹</div>
-      <h4>Machine Learning & AI</h4>
-      <div class="learning-progress">
-        <div class="progress-bar" style="width: 30%"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+- 🔹 **Patrones de Diseño Avanzados en Angular** — 75%
+- 🔹 **Optimización de Rendimiento Web** — 60%
+- 🔹 **Arquitectura de Aplicaciones Escalables** — 45%
+- 🔹 **Machine Learning & AI** — 30%
+
+![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📚 Proyectos Académicos
 
-<div align="center">
-  <div class="academic-projects">
-    <div class="academic-card">
-      <h4>🎓 Tesis de Grado</h4>
-      <p><strong>Sistema de Gestión Inteligente para Empresas</strong></p>
-      <p>Desarrollo de una plataforma integral que combina tecnologías web modernas con algoritmos de machine learning para optimizar procesos empresariales.</p>
-      <div class="academic-tech">
-        <span class="tech-badge">Python</span>
-        <span class="tech-badge">Django</span>
-        <span class="tech-badge">TensorFlow</span>
-      </div>
-    </div>
-    
-    <div class="academic-card">
-      <h4>📖 Investigación</h4>
-      <p><strong>Análisis de Datos en Tiempo Real</strong></p>
-      <p>Investigación sobre técnicas de procesamiento de datos masivos y visualización interactiva para toma de decisiones empresariales.</p>
-      <div class="academic-tech">
-        <span class="tech-badge">Python</span>
-        <span class="tech-badge">Pandas</span>
-        <span class="tech-badge">D3.js</span>
-      </div>
-    </div>
-  </div>
-</div>
+---
+
+### 🎓 Tesis de Grado
+**Sistema de Gestión Inteligente para Empresas**  
+Desarrollo de una plataforma integral que combina tecnologías web modernas con algoritmos de machine learning para optimizar procesos empresariales.  
+**Tecnologías:** `Python` `Django` `TensorFlow`
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+### 📖 Investigación
+**Análisis de Datos en Tiempo Real**  
+Investigación sobre técnicas de procesamiento de datos masivos y visualización interactiva para toma de decisiones empresariales.  
+**Tecnologías:** `Python` `Pandas` `D3.js`
+
+![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🎨 Habilidades Creativas
 
-<div align="center">
-  <div class="skills-showcase">
-    <div class="skill-category">
-      <h3>🎨 Diseño UI/UX</h3>
-      <div class="skill-items">
-        <div class="skill-item">
-          <span class="skill-name">Figma</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 85%"></div>
-          </div>
-        </div>
-        <div class="skill-item">
-          <span class="skill-name">Adobe XD</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 75%"></div>
-          </div>
-        </div>
-        <div class="skill-item">
-          <span class="skill-name">Prototipado</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 90%"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 200px; height: 3px;">
-    </div>
-    
-    <div class="skill-category">
-      <h3>📊 Análisis de Datos</h3>
-      <div class="skill-items">
-        <div class="skill-item">
-          <span class="skill-name">Python</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 80%"></div>
-          </div>
-        </div>
-        <div class="skill-item">
-          <span class="skill-name">SQL</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 85%"></div>
-          </div>
-        </div>
-        <div class="skill-item">
-          <span class="skill-name">Tableau</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 70%"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 200px; height: 3px;">
-    </div>
-    
-    <div class="skill-category">
-      <h3>🚀 Desarrollo</h3>
-      <div class="skill-items">
-        <div class="skill-item">
-          <span class="skill-name">Angular</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 90%"></div>
-          </div>
-        </div>
-        <div class="skill-item">
-          <span class="skill-name">Node.js</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 85%"></div>
-          </div>
-        </div>
-        <div class="skill-item">
-          <span class="skill-name">React Native</span>
-          <div class="skill-level">
-            <div class="skill-fill" style="width: 75%"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+### 🎨 Diseño UI/UX
+- Figma (85%)
+- Adobe XD (75%)
+- Prototipado (90%)
+
+### 📊 Análisis de Datos
+- Python (80%)
+- SQL (85%)
+- Tableau (70%)
+
+### 🚀 Desarrollo
+- Angular (90%)
+- Node.js (85%)
+- React Native (75%)
+
+![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌍 Idiomas
 
-<div align="center">
-  <div class="languages-container">
-    <div class="language-card">
-      <div class="language-flag">🇪🇸</div>
-      <h4>Español</h4>
-      <p>Nativo</p>
-      <div class="language-level">
-        <div class="level-fill" style="width: 100%"></div>
-      </div>
-    </div>
-    
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100px; height: 2px;">
-    </div>
-    
-    <div class="language-card">
-      <div class="language-flag">🇺🇸</div>
-      <h4>Inglés</h4>
-      <p>Avanzado</p>
-      <div class="language-level">
-        <div class="level-fill" style="width: 85%"></div>
-      </div>
-    </div>
-    
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100px; height: 2px;">
-    </div>
-    
-    <div class="language-card">
-      <div class="language-flag">🇫🇷</div>
-      <h4>Francés</h4>
-      <p>Intermedio</p>
-      <div class="language-level">
-        <div class="level-fill" style="width: 60%"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+- 🇪🇸 **Español:** Nativo
+- 🇺🇸 **Inglés:** Avanzado
+- 🇫🇷 **Francés:** Intermedio
+
+![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🎯 Metas Profesionales
 
-<div align="center">
-  <div class="goals-container">
-    <div class="goal-card">
-      <div class="goal-icon">🎯</div>
-      <h4>Corto Plazo</h4>
-      <ul>
-        <li>Dominar arquitecturas de microservicios</li>
-        <li>Certificación en AWS</li>
-        <li>Contribuir a proyectos open source</li>
-      </ul>
-    </div>
-    
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 150px; height: 2px;">
-    </div>
-    
-    <div class="goal-card">
-      <div class="goal-icon">🚀</div>
-      <h4>Mediano Plazo</h4>
-      <ul>
-        <li>Liderar equipos de desarrollo</li>
-        <li>Especialización en IA/ML</li>
-        <li>Crear mi propia startup</li>
-      </ul>
-    </div>
-    
-    <div class="goal-card">
-      <div class="goal-icon">🌟</div>
-      <h4>Largo Plazo</h4>
-      <ul>
-        <li>Ser referente en la industria</li>
-        <li>Mentor de desarrolladores</li>
-        <li>Impacto social con tecnología</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+### Corto Plazo
+- Dominar arquitecturas de microservicios
+- Certificación en AWS
+- Contribuir a proyectos open source
+
+### Mediano Plazo
+- Liderar equipos de desarrollo
+- Especialización en IA/ML
+- Crear mi propia startup
+
+### Largo Plazo
+- Ser referente en la industria
+- Mentor de desarrolladores
+- Impacto social con tecnología
+
+![separador](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🤝 Conéctate Conmigo
 
