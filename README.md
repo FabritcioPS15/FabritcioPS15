@@ -114,22 +114,16 @@
 
 Optimización del procesamiento de nóminas y mantenimiento de registros sólidos de empleados con interfaz intuitiva y reportes automatizados.
 
-**Tecnologías principales:**
+**Tecnologías principales:**  
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-> 📝 Plataforma web para gestionar la planilla y las asistencias del personal de la empresa. Permite ver, editar y actualizar la información de los empleados, así como generar reportes automáticos.
+| [![Planilla Asistencias](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Planilla-Asistencias&theme=radical)](https://github.com/FabritcioPS15/Planilla-Asistencias) | [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&repo=Planilla-Asistencias&layout=compact&theme=radical)](https://github.com/FabritcioPS15/Planilla-Asistencias) |
+|:---:|:---:|
 
-<p align="center">
-  <a href="https://github.com/FabritcioPS15/Planilla-Asistencias">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Planilla-Asistencias&theme=radical" width="350"/>
-  </a>
-  <a href="https://github.com/FabritcioPS15/Planilla-Asistencias">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&repo=Planilla-Asistencias&layout=compact&theme=radical" width="300"/>
-  </a>
-</p>
+> 📝 Plataforma web para gestionar la planilla y las asistencias del personal de la empresa. Permite ver, editar y actualizar la información de los empleados, así como generar reportes automáticos.
 
 ---
 
@@ -137,22 +131,16 @@ Optimización del procesamiento de nóminas y mantenimiento de registros sólido
 
 Mejora de la experiencia del usuario y operaciones comerciales a través de soluciones móviles innovadoras y escalables.
 
-**Tecnologías principales:**
+**Tecnologías principales:**  
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 
-> 📲 App móvil para mejorar la experiencia del usuario y optimizar operaciones empresariales. Incluye notificaciones, autenticación y sincronización en tiempo real.
+| [![Proyecto APPmovil](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-APPmovil&theme=radical)](https://github.com/FabritcioPS15/Proyecto-APPmovil) | [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&repo=Proyecto-APPmovil&layout=compact&theme=radical)](https://github.com/FabritcioPS15/Proyecto-APPmovil) |
+|:---:|:---:|
 
-<p align="center">
-  <a href="https://github.com/FabritcioPS15/Proyecto-APPmovil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-APPmovil&theme=radical" width="350"/>
-  </a>
-  <a href="https://github.com/FabritcioPS15/Proyecto-APPmovil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&repo=Proyecto-APPmovil&layout=compact&theme=radical" width="300"/>
-  </a>
-</p>
+> 📲 App móvil para mejorar la experiencia del usuario y optimizar operaciones empresariales. Incluye notificaciones, autenticación y sincronización en tiempo real.
 
 ---
 
@@ -160,22 +148,16 @@ Mejora de la experiencia del usuario y operaciones comerciales a través de solu
 
 Portfolio personal desarrollado con tecnologías modernas, diseño responsivo y animaciones interactivas para mostrar mis proyectos y habilidades.
 
-**Tecnologías principales:**
+**Tecnologías principales:**  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
 
-> 🌟 Portfolio personal con diseño moderno, responsivo y animaciones para destacar proyectos y habilidades.
+| [![Portfolio Personal](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=FabritcioPS15&theme=radical)](https://github.com/FabritcioPS15/FabritcioPS15) | [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&repo=FabritcioPS15&layout=compact&theme=radical)](https://github.com/FabritcioPS15/FabritcioPS15) |
+|:---:|:---:|
 
-<p align="center">
-  <a href="https://github.com/FabritcioPS15/FabritcioPS15">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=FabritcioPS15&theme=radical" width="350"/>
-  </a>
-  <a href="https://github.com/FabritcioPS15/FabritcioPS15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabritcioPS15&repo=FabritcioPS15&layout=compact&theme=radical" width="300"/>
-  </a>
-</p>
+> 🌟 Portfolio personal con diseño moderno, responsivo y animaciones para destacar proyectos y habilidades.
 
 ---
 
