@@ -76,6 +76,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
 
 </div>
 
@@ -97,6 +98,12 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 
 </div>
+
+---
+
+#### 📝 Otras herramientas de productividad y multimedia
+
+Google Drive, Adobe Premiere, Cursor AI, Figma, Notion, Trello, Canva, entre otras.
 
 ---
 
