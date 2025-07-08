@@ -112,28 +112,37 @@
 
 ### 📊 Sistema de Gestión de Planillas
 Optimización del procesamiento de nóminas y mantenimiento de registros sólidos de empleados con interfaz intuitiva y reportes automatizados.  
-**Tecnologías:** `Angular` `Node.js` `PostgreSQL` `TypeScript`  
-[🔗 Ver repositorio](https://github.com/FabritcioPS15/Planilla-Asistencias)
+**Tecnologías:** `Angular` `Node.js` `PostgreSQL` `TypeScript`
 
-![Planilla Asistencias](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Planilla-Asistencias&theme=radical)
+<p align="center">
+  <a href="https://github.com/FabritcioPS15/Planilla-Asistencias">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Planilla-Asistencias&theme=radical" width="350"/>
+  </a>
+</p>
 
 ---
 
 ### 📱 Proyecto de Aplicación Móvil
 Mejora de la experiencia del usuario y operaciones comerciales a través de soluciones móviles innovadoras y escalables.  
-**Tecnologías:** `React Native` `JavaScript` `Firebase` `Redux`  
-[🔗 Ver repositorio](https://github.com/FabritcioPS15/Proyecto-APPmovil)
+**Tecnologías:** `React Native` `JavaScript` `Firebase` `Redux`
 
-![Proyecto APPmovil](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-APPmovil&theme=radical)
+<p align="center">
+  <a href="https://github.com/FabritcioPS15/Proyecto-APPmovil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=Proyecto-APPmovil&theme=radical" width="350"/>
+  </a>
+</p>
 
 ---
 
 ### 🌐 Portfolio Personal
 Portfolio personal desarrollado con tecnologías modernas, diseño responsivo y animaciones interactivas para mostrar mis proyectos y habilidades.  
-**Tecnologías:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`  
-[🔗 Ver repositorio](https://github.com/FabritcioPS15)
+**Tecnologías:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
-![Portfolio Personal](https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=FabritcioPS15&theme=radical)
+<p align="center">
+  <a href="https://github.com/FabritcioPS15">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FabritcioPS15&repo=FabritcioPS15&theme=radical" width="350"/>
+  </a>
+</p>
 
 ---
 
