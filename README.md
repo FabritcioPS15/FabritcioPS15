@@ -124,23 +124,18 @@ Sitio web personal con diseño moderno y responsive que muestra mis proyectos y 
 
 ## 💼 Experiencia Profesional
 
-### 🚀 Full Stack Developer
-**Empresa Tecnológica** | 2023 - Presente  
-- Desarrollo de aplicaciones web con Angular, Node.js y PostgreSQL
-- Implementación de APIs RESTful y servicios backend
-- Optimización de rendimiento y solución de problemas técnicos
+### 🚀 Full Stack Developer | Soporte técnico
+**Empresa Grupo San Cristobal** | 2024 - Presente  
+- Desarrollo de aplicaciones web con HTML5, React, Node.js, Tailwind, PostgreSQL, Typescript y Tailwind CSS.
+- Implementación de APIs RESTful y servicios backend.
+- Optimización de rendimiento y solución de problemas técnicos.
+- Brindar soporte técnico a las 17 diferentes sedes tanto presencialmente como de manera virtual.
 
-### 📱 Mobile Developer
-**Startup Innovadora** | 2022 - 2023  
-- Desarrollo de aplicaciones móviles con React Native
-- Integración con Firebase para autenticación y base de datos
-- Mejora de experiencia de usuario y rendimiento
-
-### 💻 Frontend Developer
-**Agencia Digital** | 2021 - 2022  
-- Creación de interfaces responsivas con HTML5/CSS3/JavaScript
-- Implementación de diseños UX/UI en aplicaciones web
-- Optimización de rendimiento frontend
+### 💻 Full Stack Developer
+**Freelancer** | 2023 - Presente
+- Creación de interfaces responsivas con HTML5/CSS3/JavaScript/React.js/Typescript/Tailwind CSS/Supabase.
+- Implementación de diseños UX/UI en aplicaciones web.
+- Optimización de rendimiento frontend.
 
 ---
 
@@ -151,15 +146,13 @@ Cuando no estoy codificando, disfruto de:
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify" height="30">
   <img src="https://img.shields.io/badge/Valorant-FA4454?logo=valorant&logoColor=white" alt="Valorant" height="30">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=white" alt="Minecraft" height="30">
   <img src="https://img.shields.io/badge/Warframe-FFFFFF?logo=warframe&logoColor=black" alt="Warframe" height="30">
   <img src="https://img.shields.io/badge/Anime-FF6F61?logo=crunchyroll&logoColor=white" alt="Anime" height="30">
 </div>
 
 - 🎧 Escuchar música en Spotify mientras programo
-- 🎮 Jugar Valorant competitivo con amigos
-- ⛏️ Explorar mundos infinitos en Minecraft
-- 🔫 Misiones cooperativas en Warframe
+- 🔫 Jugar Valorant competitivo con amigos
+- 🎮 Misiones cooperativas en Warframe
 - 📺 Ver anime para relajarme
 
 ---
