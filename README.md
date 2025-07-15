@@ -10,7 +10,7 @@
   </h1>
   
   <h3 style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4); background-size: 400% 400%; animation: gradient 3s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    🚀 Full Stack Developer Jr.| Data Scientist 🚀
+    🚀 Full Stack Developer Jr.| Data Analytics Jr. 🚀
   </h3>
   
   <p>
