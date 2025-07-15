@@ -215,7 +215,7 @@ Cuando no estoy codificando, disfruto de:
     <i>¿Por qué los programadores prefieren el modo oscuro?</i><br>
     <b>¡Porque la luz atrae bugs!</b> 🐞
   </p>
-  <img src="https://media.giphy.com/media/3o7TKwxYkeW0ZvTqsU/giphy.gif" width="150">
+  <img src="https://media.tenor.com/KQbDmEYDO_wAAAAM/ba-dum-tsss-dum-dum-tiss.gif" width="150">
 </div>
 
 ---
