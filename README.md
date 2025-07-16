@@ -46,38 +46,11 @@ Desarrollador Full Stack con experiencia en creación de soluciones web completa
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center" style="font-size: 1.1em; margin: 20px 0;">
-
-### 🔍 Frontend
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=30" alt="HTML5" height="40">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=30" alt="CSS3" height="40">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=30" alt="JavaScript" height="40">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&logoWidth=30" alt="TypeScript" height="40">
-  <br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge&logoWidth=30" alt="Angular" height="40">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=30" alt="React" height="40">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge&logoWidth=30" alt="Ionic" height="40">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge&logoWidth=30" alt="Tailwind" height="40">
-</div>
-
-### ⚙️ Backend & Bases de Datos
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=30" alt="Node.js" height="40">
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&logoWidth=30" alt="Express" height="40">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=30" alt="PostgreSQL" height="40">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&logoWidth=30" alt="Firebase" height="40">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge&logoWidth=30" alt="Supabase" height="40">
-</div>
-
-### 🧰 Herramientas
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=30" alt="Git" height="40">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoWidth=30" alt="Docker" height="40">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&logoWidth=30" alt="VS Code" height="40">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&logoWidth=30" alt="Figma" height="40">
-</div>
-
+<div align="center">
+  <h3>Tecnologías que utilizo</h3>
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,ionic,tailwind,nodejs,express,postgres,firebase,supabase,git,docker,vscode,figma&perline=8" alt="Tech Stack" width="90%">
+  </div>
 </div>
 
 ---
@@ -176,7 +149,6 @@ Cuando no estoy codificando, disfruto de:
     <tr>
       <td colspan="2">
         <a href="https://github.com/FabritcioPS15">
-          <!-- Corregido el problema de la racha -->
           <img src="https://streak-stats.demolab.com?user=FabritcioPS15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha" width="100%">
         </a>
       </td>
